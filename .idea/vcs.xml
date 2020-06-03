@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/themes/docker-wordpress-theme-setup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/themes/shanduka-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wp-content/themes/shandukath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/themes/webpack-gulp-wordpress-starter-theme" vcs="Git" />
   </component>
 </project>
